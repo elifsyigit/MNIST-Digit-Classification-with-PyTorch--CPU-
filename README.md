@@ -1,0 +1,1 @@
+To execute the code, you must either modify how the dataset is called or download the MNIST dataset from [this link](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv) and move it to the related file directory.
