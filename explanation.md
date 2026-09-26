@@ -1,7 +1,5 @@
 # MNIST NN using PyTorch (CPU)
 
-Created: December 13, 2025 2:48 PM
-
 Daha önce **MNIST** dataseti üzerinde sadece **NumPy** kullanarak bir model eğitmiştik. Orada her şeyi, en küçük türev hesaplamasından parametre güncellemelerine kadar manuel yapıyorduk. Şimdi bu **neural network**'ü **PyTorch** kullanarak çok daha pratik bir şekilde kurguluyoruz.
 
 ### PyTorch'a Geçiş: Tensor Dönüşümü
